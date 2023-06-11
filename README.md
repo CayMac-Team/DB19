@@ -5,7 +5,7 @@ DB19 3D printed Male &amp; Female version
 From Amazon you can purcase these pins. I know the male pins work but I have not tested the female pins in the female 3D printed connector.
 https://www.amazon.com/dp/B09BZ789HJ?psc=1&ref=ppx_yo2ov_dt_b_product_details
 
-Another source for the pins this unit was specifically designed to use is:
+Another source for the male only pins this unit was specifically designed to use is:
 https://www.distrelec.biz/en/crimp-contact-pin-pu-pack-of-100-pieces-deltron-connectors-px1-awg-20-24-crimp-set-of-100pcs/p/14416914
 This is from Europe and I can't seem to order from the site and have them shipped to Florida. Joakim orders them and sends to me. Anyone find a similar product that works from the USA, please let us know.
 
