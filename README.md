@@ -11,8 +11,6 @@ This is from Europe and I can't seem to order from the site and have them shippe
 
 The best I have found is to order these items with the choices of: 3D Technology - SLA resign, material - black resin, color - grayish black, sanding - yes. I order from JLCPCB and they are about $1.00 each for the male version.
 
-Like said above, I have not ordered, used or pinned the female version yet. 
-
-USE THE FEMALE VERSION AT YOUR OWN RISK
+USE THE FEMALE VERSION AT YOUR OWN RISK AS THIS IS WORK IN PROGRESS
 
 The designs are created by Jockelill who is a member of the CayMac Vintage Team.
