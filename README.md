@@ -12,7 +12,7 @@ Another source for the male only pins this unit was specifically designed to use
 https://www.distrelec.biz/en/crimp-contact-pin-pu-pack-of-100-pieces-deltron-connectors-px1-awg-20-24-crimp-set-of-100pcs/p/14416914
 This is from Europe and I can't seem to order from the site and have them shipped to Florida. Joakim orders them and sends to me.
 
-The best I have found is to order these items with the choices of: 3D Technology - SLA resign, material - black resin, color - grayish black, sanding - yes. I order from JLCPCB and they are about $1.00 each for the male version.
+The best I have found is to order these items with the choices of: 3D Technology - SLA resign, material - black resin, color - grayish black, sanding - yes from JLCPCB and they are about $1.00 each for the male version.
 
 USE THE FEMALE VERSION AT YOUR OWN RISK AS THIS IS WORK IN PROGRESS
 
